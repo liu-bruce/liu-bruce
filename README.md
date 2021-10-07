@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bruce Liu
-- 👀 I’m interested in computer hardwere, sensors, research anything hard science
+- 👀 I’m interested in computer hardware, sensors, research anything hard science
 - 🌱 I’m currently learning python and jetson nano
 - 📫 How to reach me liubruce@outlook.com
 
