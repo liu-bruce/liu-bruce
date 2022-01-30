@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bruce Liu
 - 👀 I’m interested in computer hardware, sensors, research anything hard science
-- 🌱 I’m currently learning python and jetson nano
+- 🌱 I’m currently learning python,java and jetson nano
 - 📫 How to reach me liubruce@outlook.com
 
 
